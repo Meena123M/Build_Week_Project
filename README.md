@@ -1,5 +1,9 @@
 # (Group 3) SAL_BW_Project_3 - Data Preparation, SQL Insights, and (EDA) Data Visualization 📊
 
+## 🎥 Project Demo
+
+👉 [Watch Video on Google Drive](https://drive.google.com/file/d/1d-hfzxSbW_8goSjCZanIqYLO-TRVeu8q/view?usp=sharing)
+
 ## Project Overview 🔍
 
 This project focuses on cleaning and merging multiple retail CSV files, loading them into SQL, extracting business insights, and performing sales trend analysis using Pandas, Seaborn, and Matplotlib.
